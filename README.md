@@ -2,7 +2,10 @@
 
 A lightweight e-commerce application built with React and Node.js that allows users to browse products, add them to a cart, and place orders.
 
-![E-Shop Screenshot](https://images.unsplash.com/photo-1607082349566-187342175e2f?q=80&w=2070&auto=format&fit=crop)
+
+![Screenshot 2025-03-01 123552](https://github.com/user-attachments/assets/b9b723da-718e-4700-be44-2e015f8e081a)
+![Screenshot 2025-03-01 123604](https://github.com/user-attachments/assets/19b8ade7-75a5-44f1-bbba-8c03a2a1deba)
+![Screenshot 2025-03-01 123715](https://github.com/user-attachments/assets/df8b2259-b4ab-42f8-8dcd-010109717a08)
 
 ## Features
 
@@ -31,7 +34,7 @@ A lightweight e-commerce application built with React and Node.js that allows us
 ## Tech Stack
 
 ### Frontend
-- React 18
+- React 
 - React Router for navigation
 - Axios for API requests
 - CSS for styling (no external UI libraries)
@@ -107,8 +110,7 @@ Places a new order.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ecommerce-app.git
-cd ecommerce-app
+git clone https://github.com/ankitkanojiya07/e-commerce-website
 ```
 
 2. Install dependencies:
@@ -142,7 +144,3 @@ This will start:
 - Payment processing integration
 - Order history and tracking
 - Admin dashboard for product management
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
